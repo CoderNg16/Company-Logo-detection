@@ -1,7 +1,7 @@
 # Company-Logo-detection
 Watched OpenCV tutorials for beginners https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
 🤗What is YOLO?
-Blogs: <\n>
+Blogs: 
 https://medium.com/analytics-vidhya/everything-you-need-to-know-to-train-your-custom-object-detector-model-using-yolov3-1bf0640b0905
 https://medium.com/@akarshzingade/logo-detection-using-yolov2-8cda5a68740e
 
@@ -16,9 +16,21 @@ Certificate: https://coursera.org/share/fa3ded4fcd97b5032653d2dd77bee9ee
 Gone through this blog for video processing
 https://towardsdatascience.com/yolov3-pytorch-on-google-colab-c4a79eeecdea
 
+Steps required to implement object-detection model:
+1. Collecting the dataset
+2. Pre-processing and Augmentation
+3. Annotation
+4. Training our model
+5. Obtain the weights
 
+Started implementing the above in roboflow
 https://blog.roboflow.com/training-a-yolov3-object-detection-model-with-a-custom-dataset/
 
+For Preprocessing and Augmentation: https://blog.roboflow.com/why-preprocess-augment/                                 
+Augmentation basically creates new training images from the existing images.
+Studied about overfitting and underfitting: https://www.kaggle.com/dansbecker/underfitting-and-overfitting
+Images are annotated in roboflow and then trained using google colab .
+Colab link : https://colab.research.google.com/drive/1D4X949Ol3LDQtj2mfZPuKesR4k1fjZho
 
-
-https://blog.roboflow.com/object-detection/
+Read about batch and epoch which i came across while training in colab.
+https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
