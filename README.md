@@ -1,7 +1,7 @@
 # Company-Logo-detection
 Watched OpenCV tutorials for beginners https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
 🤗What is YOLO?
-Blogs: 
+Blogs: <\n>
 https://medium.com/analytics-vidhya/everything-you-need-to-know-to-train-your-custom-object-detector-model-using-yolov3-1bf0640b0905
 https://medium.com/@akarshzingade/logo-detection-using-yolov2-8cda5a68740e
 
