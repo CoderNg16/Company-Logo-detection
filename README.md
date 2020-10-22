@@ -39,6 +39,6 @@ Images are annotated in roboflow and then trained using google colab .
 Colab link : https://colab.research.google.com/drive/1D4X949Ol3LDQtj2mfZPuKesR4k1fjZho
 
 This model doesn't works fine so first tried to implement on just two classes in colab.
-Colab : https://colab.research.google.com/drive/1Kc7u6SNvIc5D4ZyjjK_d5IMSGe3a-3yA
+Colab link : https://colab.research.google.com/drive/1Kc7u6SNvIc5D4ZyjjK_d5IMSGe3a-3yA
 
 
